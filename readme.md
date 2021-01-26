@@ -42,3 +42,5 @@ Hay 2 tipos de tropas, la recuperable que se consigue mediante su entrenamiento 
 <!--[Comunidad de Trucos](https://media.giphy.com/media/5fBH6zf7l8bxukYh74Q/giphy.gif)-->
     <a href="https://media.giphy.com/media/5fBH6zf7l8bxukYh74Q/giphy.gif">Comunidad de Trucos</a><br/>
 </div>
+
+<!-- BUG COLISEO -->
